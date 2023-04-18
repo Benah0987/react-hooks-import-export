@@ -4,3 +4,4 @@ import ColoradoStateParks from "./ColoradoStateParks";
 
 
 ReactDOM.render(<ColoradoStateParks />, document.getElementById("root"));
+export { ColoradoStateParks, ReactDOM };
